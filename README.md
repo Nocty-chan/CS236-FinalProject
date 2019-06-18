@@ -1,5 +1,7 @@
 # CS236- Final Project repository 
 
+Final Report: https://drive.google.com/open?id=18YWWARGSbJyWrmbSm1JmQH51lEIJoleU
+
 ## Training AC-GAN:
 > python train_acgan.py
 
