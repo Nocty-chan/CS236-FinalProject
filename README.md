@@ -1,4 +1,4 @@
-# Adversarial training with Unrestricted Adversarial
+# Adversarial training with Unrestricted Adversarial Examples
 ## CS236 Final Project
 Final Report: https://drive.google.com/open?id=18YWWARGSbJyWrmbSm1JmQH51lEIJoleU
 
